@@ -11,3 +11,7 @@ BuildingEscape/Content/StarterContent/
 # VISUAL STUDIO GENERATED FILES #
 
 *.VC.db
+*.opendb
+*.VC.db-wal
+*.VC.db-shm
+*.ipch
